@@ -6,8 +6,9 @@ Neste primeiro trabalho introdutório à Unidade Curricular Redes de Computadore
 ## Trabalho Prático 2
 
 Tema - Protocolo IPv4 :: Endereçamento e Encaminhamento IP.
-Para o desenvolvimento deste tema, foi feito um relatório com questões e as respetivas respostas, com imagens ilustrativas. 
+Para o desenvolvimento deste tema, foi feito um relatório com a indicação das questões propostas e as respetivas respostas, com imagens ilustrativas. 
 
 ## Trabalho Prático 3
 
-Tema - 
+Tema - Nível de Ligação Lógica: Redes Ethernet, Protocolo ARP e Redes Locais sem Fios (Wi-Fi).
+Para o desenvolvimento deste tema, foi feito um relatório com a indicação das questões propostas e as respetivas respostas, com imagens ilustrativas. 
