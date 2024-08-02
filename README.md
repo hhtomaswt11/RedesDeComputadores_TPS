@@ -1,3 +1,4 @@
+## Este repositório reúne o conjunto de trabalhos práticos que foram realizados ao longo do 2ºsemestre do 2ºano pela Unidade Curricular Redes de Computadores
 ## Avaliação dos trabalhos práticos: 16.45/20.00
 
 ## Trabalho Prático 1
